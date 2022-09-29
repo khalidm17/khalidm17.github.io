@@ -1,7 +1,7 @@
 body {
-  background-color: #333;
-  color: #ddddda;
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightblue;
+  color: #2F4F3F;
+  font-family: "Times New Roman", Times, serif;
   margin: 10% 20%
   
 }
@@ -19,5 +19,5 @@ body {
  text-transform: uppercase; 
  border-top: 1px solid #eee;
  border-bottom: 1px solid #eee;
- background-color: rgba (0,0,0,0)
+ background-color: rgba (0,0,0,0.5)
 }
